@@ -1,0 +1,1 @@
+pages/\n  ├── _app.js\n  ├── _document.js\n  ├── index.js\n  ├── about.js\n  └── products/\n      ├── index.js\n      └── [id].js\ncomponents/\n  ├── Layout.js\n  ├── Navbar.js\n  ├── Footer.js\n  ├── ProductCard.js\n  └── Cart.js\nstyling/\n  ├── globals.css\n  └── vendor.css\n
