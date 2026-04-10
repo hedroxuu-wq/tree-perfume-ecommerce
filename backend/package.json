@@ -1,0 +1,1 @@
+{\n  "name": "package",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "dependencies": {\n    "mongoose": "^6.0.0",\n    "express": "^4.0.0",\n    "bcryptjs": "^2.0.0",\n    "jsonwebtoken": "^8.0.0",\n    "dotenv": "^10.0.0",\n    "cors": "^2.0.0",\n    "stripe": "^8.0.0"\n  }\n}
